@@ -1,4 +1,4 @@
-﻿# Run LambdaTest Tunnel Java Client on TestMu AI (Formerly LambdaTest)
+﻿# Run TestMu AI Tunnel Java Client on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -10,7 +10,7 @@
 
 [TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks. 
 
-With TestMu AI (Formerly LambdaTest), you can use the LambdaTest Tunnel Java Client to establish a secure tunnel for testing locally hosted applications on the TestMu AI cloud. This sample shows how to configure the Java tunnel client to connect to the TestMu AI infrastructure.
+With TestMu AI (Formerly LambdaTest), you can use the TestMu AI (Formerly LambdaTest) Tunnel Java Client to establish a secure tunnel for testing locally hosted applications on the TestMu AI cloud. This sample shows how to configure the Java tunnel client to connect to the TestMu AI infrastructure.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
@@ -73,7 +73,7 @@ t.start(options);
 t.stop();
 ```
 
-See `LambdaTestTunnelExample.java` for a complete working example.
+See `TestMu AI (Formerly LambdaTest)TunnelExample.java` for a complete working example.
 
 Build the project with Maven:
 

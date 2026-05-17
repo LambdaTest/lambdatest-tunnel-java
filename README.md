@@ -19,8 +19,8 @@ With TestMu AI (Formerly LambdaTest), you can use the LambdaTest Tunnel Java Cli
 
 - Java 8 or newer
 - Maven
-- A TestMu AI account. [Sign up for free](https://www.testmuai.com/register/).
-- TestMu AI `Username` and `Access Key` from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
+- A TestMu AI account. Sign up for free.
+- TestMu AI `Username` and `Access Key` from the TestMu AI Automation Dashboard.
 
 ### Setup
 
